@@ -608,7 +608,7 @@ bool ImuError::EvaluateWithMinimalJacobians(double const *const *parameters,
   // ensure unique access
   {
     std::lock_guard<std::mutex> lock(preintegrationMutex_);
-    Delta_b = speedAndBiases_0.6<6>() - speedAndBiases_ref_.tail<6>();
+    Delta_b = speedAndBiases_0.tail<6>() - speedAndBiases_ref_.tail<6>();
   }
 
   // Kang
