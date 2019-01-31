@@ -1,0 +1,13 @@
+# Target labels
+ brisk_external
+# Source files and their labels
+/home/kang/Project/okvis/build/CMakeFiles/brisk_external
+/home/kang/Project/okvis/build/CMakeFiles/brisk_external.rule
+/home/kang/Project/okvis/build/CMakeFiles/brisk_external-complete.rule
+/home/kang/Project/okvis/build/brisk/src/brisk_external-stamp/brisk_external-install.rule
+/home/kang/Project/okvis/build/brisk/src/brisk_external-stamp/brisk_external-mkdir.rule
+/home/kang/Project/okvis/build/brisk/src/brisk_external-stamp/brisk_external-download.rule
+/home/kang/Project/okvis/build/brisk/src/brisk_external-stamp/brisk_external-update.rule
+/home/kang/Project/okvis/build/brisk/src/brisk_external-stamp/brisk_external-patch.rule
+/home/kang/Project/okvis/build/brisk/src/brisk_external-stamp/brisk_external-configure.rule
+/home/kang/Project/okvis/build/brisk/src/brisk_external-stamp/brisk_external-build.rule
